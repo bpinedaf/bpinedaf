@@ -38,8 +38,8 @@ Recent work includes workforce and attendance systems, QA platforms, refund and 
 
 - [Crop Row Detection](https://github.com/bpinedaf/Crop-Row-Detection) — computer vision / deep learning applied to agricultural imagery.
 - [FERJO Inventario](https://github.com/bpinedaf/FERJO_Inventario) — operational inventory, quotation and business workflow platform.
-- [AV Evaluation](https://github.com/bpinedaf/AV_Evaluation) — Python/API-based agricultural image evaluation prototype.
 - [Gastro Integral](https://github.com/bpinedaf/gastro-integral-sa) — digital platform work for a multi-specialty medical clinic.
+- [Construction Material Calculator](https://github.com/bpinedaf/calculadora-materiales) — digital construction planning and material-estimation tooling.
 
 ## Professional background
 
